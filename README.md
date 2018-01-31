@@ -1,6 +1,8 @@
 # crab
 分布式协调（锁、选举)
 
+> [Redlock介绍](https://github.com/haiger/crab/wiki/Redlock%E4%BB%8B%E7%BB%8D)
+
 ## Getting Started
 ### Artifact
 ```java
