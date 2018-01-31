@@ -104,7 +104,7 @@ crab.lock.redisEngine.pool.testOnBorrow=true
 
 ### Service
 ```java
-import com.fabric4cloud.crab.ReentrantLock;
+import com.github.haiger.crab.ReentrantLock;
 public class SomeService {
     @Autowired
     private ReentrantLock lock;
