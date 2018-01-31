@@ -1,0 +1,13 @@
+.mvn
+.project
+.settings
+.classpath
+.pydevproject
+target
+logs/*
+build
+dest
+test-output
+.springBeans
+*.idea
+*.iml
