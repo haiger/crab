@@ -9,7 +9,7 @@
 <dependency>
     <groupId>com.github.haiger</groupId>
     <artifactId>crab-java</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -75,7 +75,7 @@ crab.lock.engine.redis.pool.test-on-borrow=true
 <dependency>
     <groupId>com.github.haiger.starter</groupId>
     <artifactId>crab-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
 </dependency>
 ```
 

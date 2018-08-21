@@ -1,4 +1,4 @@
-package com.github.haiger.starter;
+package com.github.haiger.starter.crab;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

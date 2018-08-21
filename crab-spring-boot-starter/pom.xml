@@ -10,7 +10,7 @@
 
     <groupId>com.github.haiger.starter</groupId>
     <artifactId>crab-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>crab-spring-boot-starter</name>
@@ -43,7 +43,7 @@
         <maven-javadoc-plugin.version>3.0.1</maven-javadoc-plugin.version>
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
         <java.version>1.8</java.version>
-        <crab.java.version>1.0.0</crab.java.version>
+        <crab.java.version>1.0.1</crab.java.version>
     </properties>
 
     <dependencies>

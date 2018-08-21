@@ -1,4 +1,4 @@
-package com.github.haiger.starter;
+package com.github.haiger.starter.crab;
 
 import com.github.haiger.crab.LeaderElect;
 import com.github.haiger.crab.LockContext;

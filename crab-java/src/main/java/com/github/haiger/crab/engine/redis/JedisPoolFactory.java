@@ -22,7 +22,7 @@ public class JedisPoolFactory {
             JedisPoolInfo jedisPoolInfo = new JedisPoolInfo();
             String[] split = ipAndPort.split(":");
             jedisPoolInfo.setJedisPool(new JedisPool(poolConfig, split[0], Integer.parseInt(split[1]), redisConfig.getConnectionTimeout(),
-                    redisConfig.getReadTimeout(), redisConfig.getPassword(), redisConfig.getDatabase(), null));
+                    redisConfig.getReadTimeout(), redisConfig.getPassword(), redisConfig.getDatabase(), null, false, null, null, null));
             jedisPoolInfo.setIpAndPort(ipAndPort);
             jedisPoolInfos.add(jedisPoolInfo);
         }
